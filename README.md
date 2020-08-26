@@ -17,7 +17,7 @@ https://hub.docker.com/r/gmeneguz/cursomicrosservicos_desafio_go_http_server
 
 ## Parte 4 - Server Golang com Kubernetes
 
-Para rodar no projeto no k8s:
+Para rodar o projeto no k8s:
 
 ```
 cd go
