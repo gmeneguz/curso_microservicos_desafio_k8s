@@ -1,6 +1,6 @@
 steps:
-  - id: "Executar os testes"
+  - id: "Executar os testes 2"
     name: "gcr.io/cloud-builders/go:alpine"
-    args: ["test"]
+    args: ["test", "./go/src/..."]
     env:
       - "GOPATH=/go/src/app/go/src"
